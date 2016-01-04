@@ -1,0 +1,494 @@
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R7 200 Series (ID=0x683f)
+    Vendor:   ATI
+    VRAM:     1006 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\pobeirne-desk1\Desktop\Paul_OBeirne_D15125428\FINAL_PROJECT\Builds\Zombie_Ninja_Apocalypse_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\pobeirne-desk1\Desktop\Paul_OBeirne_D15125428\FINAL_PROJECT\Builds\Zombie_Ninja_Apocalypse_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\pobeirne-desk1\Desktop\Paul_OBeirne_D15125428\FINAL_PROJECT\Builds\Zombie_Ninja_Apocalypse_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\pobeirne-desk1\Desktop\Paul_OBeirne_D15125428\FINAL_PROJECT\Builds\Zombie_Ninja_Apocalypse_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\pobeirne-desk1\Desktop\Paul_OBeirne_D15125428\FINAL_PROJECT\Builds\Zombie_Ninja_Apocalypse_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\pobeirne-desk1\Desktop\Paul_OBeirne_D15125428\FINAL_PROJECT\Builds\Zombie_Ninja_Apocalypse_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\pobeirne-desk1\Desktop\Paul_OBeirne_D15125428\FINAL_PROJECT\Builds\Zombie_Ninja_Apocalypse_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\pobeirne-desk1\Desktop\Paul_OBeirne_D15125428\FINAL_PROJECT\Builds\Zombie_Ninja_Apocalypse_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\pobeirne-desk1\Desktop\Paul_OBeirne_D15125428\FINAL_PROJECT\Builds\Zombie_Ninja_Apocalypse_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.054 seconds
+desktop: 1920x1080 60Hz; virtual: 2400x1350 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\pobeirne-desk1\Desktop\Paul_OBeirne_D15125428\FINAL_PROJECT\Builds\Zombie_Ninja_Apocalypse_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.712387 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 385.
+Total: 0.189494 ms (FindLiveObjects: 0.011950 ms CreateObjectMapping: 0.012632 ms MarkObjects: 0.157741 ms  DeleteObjects: 0.003072 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1bbc -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.774079 ms
+
+Unloading 202 unused Assets to reduce memory usage. Loaded Objects now: 1542.
+Total: 0.532974 ms (FindLiveObjects: 0.069652 ms CreateObjectMapping: 0.045410 ms MarkObjects: 0.374550 ms  DeleteObjects: 0.042337 ms)
+
+Player Id: 40
+Player Score: 0
+Player Health: 0
+Player Lives: 0
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 100
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 200
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 300
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 800
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 1300
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 800
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 900
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 1400
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 1700
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 1800
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 1900
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 2000
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 1500
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 1600
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 2100
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 2400
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 2500
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 2800
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 2900
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 3200
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 3100
+Player Health: 10
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 3000
+Player Health: 9
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 3300
+Player Health: 8
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 2800
+Player Health: 8
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 2900
+Player Health: 8
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 3000
+Player Health: 8
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 3100
+Player Health: 8
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 3600
+Player Health: 8
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 3500
+Player Health: 8
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 3600
+Player Health: 7
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 3700
+Player Health: 7
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 4200
+Player Health: 7
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 4300
+Player Health: 7
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 4600
+Player Health: 7
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 4900
+Player Health: 7
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 5400
+Player Health: 7
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Player Id: 40
+Player Score: 4400
+Player Health: 7
+Player Lives: 3
+Player Level: 1
+Player GameState: Playing
+Player CheckPoint :CheckPoint(Clone) (UnityEngine.GameObject)
+
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
